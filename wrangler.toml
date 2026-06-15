@@ -1,0 +1,6 @@
+name = "pexels-proxy"
+main = "worker.js"
+compatibility_date = "2025-06-15"
+
+[env.production]
+name = "pexels-proxy"
